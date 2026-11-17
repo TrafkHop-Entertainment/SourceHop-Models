@@ -5,7 +5,7 @@
 ---
 >This Project is Source Available, NOT Open Source!
 ---
->NO AI has been used in this project unless stated in the files themselfes!
+>NO AI has been used in this project!
 ---
 # Sourcehop-Models
 All of our 3D Models!
